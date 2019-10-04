@@ -20,7 +20,7 @@
 #  type: number
 #---
 common_name,chemical_formula,lifetime,radiative_eff,gwp_sar_100,gwp_ar4_20,gwp_ar4_100,gwp_ar4_500
-Carbon dioxide,CO2 S,,1.4,1,1,1,1
+Carbon dioxide,CO2,,1.4,1,1,1,1
 Methane,CH4,12,3.7,21,72,25,7.6
 Nitrous oxide,N2O,114,3.03,310,289,298,153
 CFC-11,CCl3F,45,0.25,3800,6730,4750,1620

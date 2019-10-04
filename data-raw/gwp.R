@@ -59,4 +59,6 @@ csvy::write_csvy(table2.14_ipcc_ar4, file = "data-raw/table214_ipcc_ar4.csvy")
 
 gwp_ipcc_ar4 <- csvy::read_csvy(file = "data-raw/gwp_ipcc_ar4.csvy")
 
+tblrelations::assert_pk_ish(gwp_ipcc_ar4, by = "common_name")
+
 usethis::use_data(gwp_ipcc_ar4)

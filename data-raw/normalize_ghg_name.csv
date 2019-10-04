@@ -1,0 +1,167 @@
+﻿wildcaught_name,normalized_common_name,type
+Carbon dioxide,Carbon dioxide,normalized
+Methane,Methane,normalized
+Nitrous oxide,Nitrous oxide,normalized
+CFC-11,CFC-11,normalized
+CFC-12,CFC-12,normalized
+CFC-13,CFC-13,normalized
+CFC-113,CFC-113,normalized
+CFC-114,CFC-114,normalized
+CFC-115,CFC-115,normalized
+Halon-1301,Halon-1301,normalized
+Halon-1211,Halon-1211,normalized
+Halon-2402,Halon-2402,normalized
+Carbon tetrachloride,Carbon tetrachloride,normalized
+Methyl bromide,Methyl bromide,normalized
+Methyl chloroform,Methyl chloroform,normalized
+HCFC-22,HCFC-22,normalized
+HCFC-123,HCFC-123,normalized
+HCFC-124,HCFC-124,normalized
+HCFC-141b,HCFC-141b,normalized
+HCFC-142b,HCFC-142b,normalized
+HCFC-225ca,HCFC-225ca,normalized
+HCFC-225cb,HCFC-225cb,normalized
+HFC-23,HFC-23,normalized
+HFC-32,HFC-32,normalized
+HFC-125,HFC-125,normalized
+HFC-134a,HFC-134a,normalized
+HFC-143a,HFC-143a,normalized
+HFC-152a,HFC-152a,normalized
+HFC-227ea,HFC-227ea,normalized
+HFC-236fa,HFC-236fa,normalized
+HFC-245fa,HFC-245fa,normalized
+HFC-365mfc,HFC-365mfc,normalized
+HFC-43-10mee,HFC-43-10mee,normalized
+Sulphur hexafluoride,Sulphur hexafluoride,normalized
+Nitrogen trifluoride,Nitrogen trifluoride,normalized
+PFC-14,PFC-14,normalized
+PFC-116,PFC-116,normalized
+PFC-318,PFC-318,normalized
+PFC-3-1-10,PFC-3-1-10,normalized
+PFC-4-1-12,PFC-4-1-12,normalized
+PFC-5-1-14,PFC-5-1-14,normalized
+PFC-9-1-18,PFC-9-1-18,normalized
+trifluoromethyl sulphur pentafluoride,trifluoromethyl sulphur pentafluoride,normalized
+HFE-125,HFE-125,normalized
+HFE-134,HFE-134,normalized
+HFE-143a,HFE-143a,normalized
+HCFE-235da2,HCFE-235da2,normalized
+HFE-245cb2,HFE-245cb2,normalized
+HFE-245fa2,HFE-245fa2,normalized
+HFE-254cb2,HFE-254cb2,normalized
+HFE-347mcc3,HFE-347mcc3,normalized
+HFE-347pcf2,HFE-347pcf2,normalized
+HFE-356pcc3,HFE-356pcc3,normalized
+HFE-449sl (HFE-7100),HFE-449sl (HFE-7100),normalized
+HFE-569sf2 (HFE-7200),HFE-569sf2 (HFE-7200),normalized
+HFE-43-10pccc124 (H-Galden 1040x),HFE-43-10pccc124 (H-Galden 1040x),normalized
+HFE-236ca12 (HG-10),HFE-236ca12 (HG-10),normalized
+HFE-338pcc13 (HG-01),HFE-338pcc13 (HG-01),normalized
+PFPMIE,PFPMIE,normalized
+Dimethylether,Dimethylether,normalized
+Methylene chloride,Methylene chloride,normalized
+Methyl chloride,Methyl chloride,normalized
+CO2,Carbon dioxide,abbr
+CH4,Methane,abbr
+N2O,Nitrous oxide,abbr
+CCl3F,CFC-11,formula
+CCl2F2,CFC-12,formula
+CClF3,CFC-13,formula
+CCl2FCClF2,CFC-113,formula
+CClF2CClF2,CFC-114,formula
+CClF2CF3,CFC-115,formula
+CBrF3,Halon-1301,formula
+CBrClF2,Halon-1211,formula
+CBrF2CBrF2,Halon-2402,formula
+CCl4,Carbon tetrachloride,formula
+CH3Br,Methyl bromide,formula
+CH3CCl3,Methyl chloroform,formula
+CHClF2,HCFC-22,formula
+CHCl2CF3,HCFC-123,formula
+CHClFCF3,HCFC-124,formula
+CH3CCl2F,HCFC-141b,formula
+CH3CClF2,HCFC-142b,formula
+CHCl2CF2CF3,HCFC-225ca,formula
+CHClFCF2CClF2,HCFC-225cb,formula
+CHF3,HFC-23,formula
+CH2F2,HFC-32,formula
+CHF2CF3,HFC-125,formula
+CH2FCF3,HFC-134a,formula
+CH3CF3,HFC-143a,formula
+CH3CHF2,HFC-152a,formula
+CF3CHFCF3,HFC-227ea,formula
+CF3CH2CF3,HFC-236fa,formula
+CHF2CH2CF3,HFC-245fa,formula
+CH3CF2CH2CF3,HFC-365mfc,formula
+CF3CHFCHFCF2CF3,HFC-43-10mee,formula
+SF6,Sulphur hexafluoride,formula
+NF3,Nitrogen trifluoride,formula
+CF4,PFC-14,formula
+C2F6,PFC-116,formula
+c-C4F8,PFC-318,formula
+C4F10,PFC-3-1-10,formula
+C5F12,PFC-4-1-12,formula
+C6F14,PFC-5-1-14,formula
+C10F18 >,PFC-9-1-18,formula
+SF5CF3,trifluoromethyl sulphur pentafluoride,formula
+CHF2OCF3,HFE-125,formula
+CHF2OCHF2,HFE-134,formula
+CH3OCF3,HFE-143a,formula
+CHF2OCHClCF3,HCFE-235da2,formula
+CH3OCF2CHF2,HFE-245cb2,formula
+CHF2OCH2CF3,HFE-245fa2,formula
+CH3OCF2CF2CF3,HFE-347mcc3,formula
+CHF2CF2OCH2CF3,HFE-347pcf2,formula
+CH3OCF2CF2CHF2,HFE-356pcc3,formula
+C4F9OCH3,HFE-449sl (HFE-7100),formula
+C4F9OC2H5,HFE-569sf2 (HFE-7200),formula
+CHF2OCF2OC2F4OCHF2,HFE-43-10pccc124 (H-Galden 1040x),formula
+CHF2OCF2OCHF2,HFE-236ca12 (HG-10),formula
+CHF2OCF2CF2OCHF2,HFE-338pcc13 (HG-01),formula
+CF3OCF(CF3)CF2OCF2OCF3,PFPMIE,formula
+CH3OCH3,Dimethylether,formula
+CH2Cl2,Methylene chloride,formula
+CH3Cl,Methyl chloride,formula
+HFE-449sl,HFE-449sl (HFE-7100),alt
+HFE-569sf2,HFE-569sf2 (HFE-7200),alt
+HFE-43-10pccc124,HFE-43-10pccc124 (H-Galden 1040x),alt
+HFE-7100,HFE-449sl (HFE-7100),alt
+HFE-7200,HFE-569sf2 (HFE-7200),alt
+H-Galden 1040x,HFE-43-10pccc124 (H-Galden 1040x),alt
+HFC125,HFC-125,gcam
+HFC134a,HFC-134a,gcam
+HFC143a,HFC-143a,gcam
+HFC152a,HFC-152a,gcam
+HFC227ea,HFC-227ea,gcam
+HFC245fa,HFC-245fa,gcam
+HFC32,HFC-32,gcam
+HFC365mfc,HFC-365mfc,gcam
+HFC23,HFC-23,gcam
+HFC236fa,HFC-236fa,gcam
+HFC43,HFC-43,gcam
+CH4_AGR,Methane,gcam
+CH4_AWB,Methane,gcam
+N2O_AGR,Nitrous oxide,gcam
+N2O_AWB,Nitrous oxide,gcam
+BC,,gcam
+BC_AWB,,gcam
+CO,,gcam
+CO_AWB,,gcam
+NH3,,gcam
+NH3_AGR,,gcam
+NH3_AWB,,gcam
+NMVOC,,gcam
+NMVOC_AWB,,gcam
+NOx,,gcam
+NOx_AGR,,gcam
+NOx_AWB,,gcam
+OC,,gcam
+OC_AWB,,gcam
+SO2_3,,gcam
+SO2_3_AWB,,gcam
+SO2_1,,gcam
+SO2_1_AWB,,gcam
+SO2_2,,gcam
+SO2_2_AWB,,gcam
+SO2_4,,gcam
+SO2_4_AWB,,gcam
