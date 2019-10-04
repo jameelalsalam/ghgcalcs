@@ -1,0 +1,13 @@
+Package: ghgcalcs
+Title: Normalize Greenhouse Gas Names and Convert Between GWP Values
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jameel",
+           family = "Alsalam",
+           role = c("aut", "cre"),
+           email = "jalsalam@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
