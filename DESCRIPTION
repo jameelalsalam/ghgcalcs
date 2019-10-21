@@ -18,3 +18,8 @@ Suggests:
     webchem
 Remotes: 
     jalsalam/tblrelations
+RoxygenNote: 6.1.1
+Imports: 
+    tibble,
+    dplyr,
+    magrittr
